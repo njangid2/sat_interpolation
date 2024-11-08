@@ -1,10 +1,7 @@
 # sat_interpolation
-
-#Also in the orignal folder the file liner.py can be used to generate positions for all the satellite.
-#
-
-
-
+#In folder Orignal
+#liner.py: This script can generate positions for all satellites.
+#compare.py: Use this script to compare actual positions with interpolated positions. You will need the source data for the satellite, including both the data used to derive equations and additional data for comparison.
 
 
 
